@@ -7,3 +7,12 @@ def map(source_array)
   end
 new
 end 
+
+def reduce(source_array, starting_point)
+  new []
+  i = 0 
+  while i < source_array.length
+  i -= 1 
+  end
+new
+end
